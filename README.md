@@ -19,11 +19,8 @@
 [android gl deeplink](https://app.adjust.com/1mseex0q?deep_link=com-aniplex-magia-exedra-en)
 
 
-
-<a href="appname://appnamehost">Click me</a>
-
-[android jp scheme](com-aniplex-magia-exedra-jp:?adj_t=1manxkag)
+[android jp scheme](com-aniplex-magia-exedra-jp://?adj_t=1manxkag)
 
 
 
-[android gl scheme](com-aniplex-magia-exedra-en:?adj_t=1mseex0q)
+[android gl scheme](com-aniplex-magia-exedra-en://?adj_t=1mseex0q)
