@@ -16,7 +16,7 @@
 
 
 
-[android gl deeplink](https://lgzn.adj.st/?adj_t=1mseex0q](https://app.adjust.com/1mseex0q?deep_link=com-aniplex-magia-exedra-en)
+[android gl deeplink](https://app.adjust.com/1mseex0q?deep_link=com-aniplex-magia-exedra-en)
 
 
 
