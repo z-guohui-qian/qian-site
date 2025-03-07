@@ -20,3 +20,9 @@
 
 
 
+
+[android jp scheme](com-aniplex-magia-exedra-jp:?adj_t=1manxkag)
+
+
+
+[android gl scheme](com-aniplex-magia-exedra-en:?adj_t=1mseex0q)
