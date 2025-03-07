@@ -20,6 +20,7 @@
 
 
 
+<a href="appname://appnamehost">Click me</a>
 
 [android jp scheme](com-aniplex-magia-exedra-jp:?adj_t=1manxkag)
 
